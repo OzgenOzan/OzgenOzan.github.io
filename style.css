@@ -23,6 +23,7 @@ body {
 
 .show-modal {
   display: flex;
+  flex-wrap: wrap;
   font-size: 1.8rem;
   font-weight: 600;
   padding: 1.75rem 3.5rem;
